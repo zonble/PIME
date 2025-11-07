@@ -16,3 +16,6 @@
 [submodule "McBopomofoWeb"]
 	path = McBopomofoWeb
 	url = https://github.com/openvanilla/McBopomofoWeb.git
+[submodule "McFoximWeb"]
+	path = McFoximWeb
+	url = https://github.com/openvanilla/McFoximWeb.git
